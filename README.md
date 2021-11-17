@@ -1,2 +1,2 @@
 # 9c-programozas
-programozas
+Sziasztok!
